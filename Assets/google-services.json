@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685430826460",
+    "project_id": "unity-metaverse-backend",
+    "storage_bucket": "unity-metaverse-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685430826460:android:d77f6ae61b41a606e49b19",
+        "android_client_info": {
+          "package_name": "com.youngit.metaverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685430826460-581kkd141jm06uhui49a6vva5c6agthj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMd440FlZ3o161leWaaIMcIWXqgojcdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685430826460-581kkd141jm06uhui49a6vva5c6agthj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
